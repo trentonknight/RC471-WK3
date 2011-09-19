@@ -2,40 +2,42 @@ This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: RC471-WK3.aux
 Case mismatch error between cite keys niv and NIV
----line 34 of file RC471-WK3.aux
+---line 24 of file RC471-WK3.aux
  : \citation{niv
  :              }
 I'm skipping whatever remains of this command
 The style file: plain.bst
 Database file #1: cite.bib
+Warning--to sort, need author, editor, or key in NIV
+Warning--empty author and editor in NIV
 You've used 9 entries,
             2118 wiz_defined-function locations,
-            536 strings with 4853 characters,
-and the built_in function-call counts, 1934 in all, are:
-= -- 176
-> -- 63
+            536 strings with 4877 characters,
+and the built_in function-call counts, 1891 in all, are:
+= -- 171
+> -- 57
 < -- 0
-+ -- 29
-- -- 18
-* -- 69
-:= -- 334
-add.period$ -- 27
++ -- 27
+- -- 16
+* -- 71
+:= -- 318
+add.period$ -- 26
 call.type$ -- 9
-change.case$ -- 34
+change.case$ -- 32
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 83
-empty$ -- 199
-format.name$ -- 18
-if$ -- 415
+cite$ -- 11
+duplicate$ -- 84
+empty$ -- 201
+format.name$ -- 16
+if$ -- 409
 int.to.chr$ -- 0
 int.to.str$ -- 9
-missing$ -- 8
-newline$ -- 48
-num.names$ -- 18
-pop$ -- 74
+missing$ -- 7
+newline$ -- 47
+num.names$ -- 16
+pop$ -- 73
 preamble$ -- 1
-purify$ -- 27
+purify$ -- 26
 quote$ -- 0
 skip$ -- 59
 stack$ -- 0
@@ -45,8 +47,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 28
-warning$ -- 0
-while$ -- 18
+warning$ -- 2
+while$ -- 16
 width$ -- 10
-write$ -- 95
+write$ -- 93
 (There was 1 error message)
