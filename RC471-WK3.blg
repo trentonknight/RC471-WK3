@@ -1,18 +1,13 @@
 This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: RC471-WK3.aux
-Case mismatch error between cite keys niv and NIV
----line 24 of file RC471-WK3.aux
- : \citation{niv
- :              }
-I'm skipping whatever remains of this command
 The style file: plain.bst
 Database file #1: cite.bib
 Warning--to sort, need author, editor, or key in NIV
 Warning--empty author and editor in NIV
 You've used 9 entries,
             2118 wiz_defined-function locations,
-            536 strings with 4877 characters,
+            536 strings with 4869 characters,
 and the built_in function-call counts, 1891 in all, are:
 = -- 171
 > -- 57
@@ -51,4 +46,4 @@ warning$ -- 2
 while$ -- 16
 width$ -- 10
 write$ -- 93
-(There was 1 error message)
+(There were 2 warnings)
